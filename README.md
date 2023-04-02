@@ -3,7 +3,7 @@
 ![github_cover_banner](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1680393878~exp=1680394478~hmac=21a4f05ce1e63dd8bfa145a2b3359697fa13b8430b9a686e1ebcb61d90c678d6)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Hey there, I am Aryan Tele currently pursuing Bachelors in Artificial Intelligence and Data Science. I have a experience working in the field of Web Development and Cyber Security, and currently working of refining my skills in Data Structures and Algorithms. I look forward to contribute in open source projects and freelance development.
+Hey there, I am Aryan Tele currently pursuing Bachelors in Artificial Intelligence and Data Science. I have a experience working in the field of Web Development and Cyber Security, and currently working on refining my skills in Data Structures and Algorithms. I am looking forward to contribute in open source projects and freelance development.
 <br>
 <br>
 <div align="center">
