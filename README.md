@@ -5,7 +5,7 @@
 <!-- Introduction Para -->
 <a href="https://modern-portfolio-tan.vercel.app/"> Visit my portfolio </a>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Hello, my name is Aryan Tele, and I'm a sophomore student studying data science and artificial intelligence. I've worked in the fields of web development and cyber security, and I'm presently refining my data structures and algorithmic thinking abilities, by solving logical question. I'm excited to add to open source initiatives and contract development.
+Hello, my name is Aryan Tele, and I'm a sophomore student studying data science and artificial intelligence. I've worked in the fields of web development and cyber security, and I'm presently refining my data structures and algorithmic thinking abilities, by solving logical question. I'm excited to add to open source initiatives and build your ideas into working reality.
 <br>
 <br>
 <div align="center">
